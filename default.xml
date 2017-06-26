@@ -18,11 +18,7 @@
 
   <default revision="master"
            remote="github"
-           sync-j="4" />
-
-  <!-- configuration of github repositories v1.0 -->
-  <project name="manifests" />
-  <project name="alt-mirror" />
+           sync-j="2" />
 
   <!-- CyanogenMod -->
   <project name="android_bootable_recovery" remote="cm" />
